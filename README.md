@@ -23,6 +23,6 @@ https://physionet.org/content/eegmmidb/1.0.0/
 ## Progress
 - [x] Project setup
 - [x] Load and visualize EEG data
-- [x ] Basic filtering
+- [x] Basic filtering
 - [ ] SVM classifier
 - [ ] Virtual robot control
