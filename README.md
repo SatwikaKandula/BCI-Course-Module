@@ -24,5 +24,7 @@ https://physionet.org/content/eegmmidb/1.0.0/
 - [x] Project setup
 - [x] Load and visualize EEG data
 - [x] Basic filtering
-- [ ] SVM classifier
+- [x] Extract epochs (T0, T1, T2)
+- [x] Combine 3 subjects x 3 runs = 270 epochs
+- [ ] SVM classifier (in progress — fixing class imbalance)
 - [ ] Virtual robot control
