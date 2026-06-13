@@ -1,5 +1,5 @@
 DATA/
-outputs/filtered_data/
+Outputs/
 .venv/
 __pycache__/
 .DS_Store
