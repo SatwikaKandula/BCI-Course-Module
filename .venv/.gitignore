@@ -1,0 +1,5 @@
+DATA/
+outputs/filtered_data/
+.venv/
+__pycache__/
+.DS_Store
